@@ -1,6 +1,7 @@
 [alias]
         lo = log --oneline
         ac = !git add -A && git commit
+        cm = commit -m 
         st = status
         sw = switch
         swc = switch -c
