@@ -1,0 +1,17 @@
+{
+  "ESLint": "dbaeumer.vscode-eslint",
+  "Prettier": "esbenp.prettier-vscode",
+  "TODO Highlight": "wayou.vscode-todo-highlight",
+  "Docker": "ms-azuretools.vscode-docker",
+  "Material Icon Theme": "pkief.material-icon-theme",
+  "Material Theme": "equinusocio.vsc-material-theme",
+  "Git Graph": "mhutchie.git-graph",
+  "Plastic": "will-stone.plastic",
+  "vscode-icons": "vscode-icons-team.vscode-icons",
+  "ES7+ React/Redux/React-Native snippets": "dsznajder.es7-react-js-snippets",
+  "Live Server": "ritwickdey.liveserver",
+  "Live Share": "ms-vsliveshare.vsliveshare",
+  "Markdown Preview Enhanced": "shd101wyy.markdown-preview-enhanced",
+  "Markdown All in One": "yzhang.markdown-all-in-one",
+  "VSCode Great Icons": "emmanuelbeziat.vscode-great-icons"
+}
