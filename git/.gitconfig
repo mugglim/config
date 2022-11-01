@@ -1,0 +1,11 @@
+[alias]
+        lo = log --oneline
+        ac = !git add -A && git commit
+        st = status
+        sw = switch
+        swc = switch -c
+[user]
+        name = Jaeuk Lim(임재욱)
+        email = applewodnr@naver.com
+[core]
+        quotepath = false
