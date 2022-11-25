@@ -5,6 +5,8 @@
         st = status
         sw = switch
         swc = switch -c
+        po = pull origin
+        fo = fetch origin
 [user]
         name = Jaeuk Lim(임재욱)
         email = applewodnr@naver.com
